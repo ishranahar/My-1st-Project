@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <img src="./Nayeem-modified.png" height="300px"alt="profile image">
+    <img src="./modified.png" height="300px"alt="profile image">
     <h1><em>Tajmun Nahar Tisha</em></h1>
     <strong>Web Developer</strong> <br/>
     <main>
